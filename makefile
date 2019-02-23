@@ -1,2 +1,3 @@
-HelloMake: main.c
-    g++ -o Hello main.cpp
+HelloMake: main.cpp
+	g++ -o Hello main.cpp
+	./Hello
